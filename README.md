@@ -1,7 +1,7 @@
 # Estimation for Energy Consumption for Domestic and Public Buildings in London using Machine Learning
 
-This research project explores new approaches for estimating greenhouse gas (GHG) emissions from domestic and public buildings in London using machine learning and 
-geospatial analysis.
+This research project explores new approaches for estimating greenhouse gas (GHG) emissions for domestic and public buildings in London using machine learning and 
+deep learning with data from Energy Performance Certificate (EPC).
 
 ## 🔍 Objective
 To develop a predictive model for estimating CO₂ emissions and energy consumption using real-world datasets and deep learning techniques
