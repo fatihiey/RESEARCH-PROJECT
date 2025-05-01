@@ -1,4 +1,4 @@
-# Greenhouse Gas Emissions Estimation in London
+# Estimation for Energy Consumption for Domestic and Public Buildings in London using Machine Learning
 
 This research project explores new approaches for estimating greenhouse gas (GHG) emissions from domestic and public buildings in London using machine learning and 
 geospatial analysis.
